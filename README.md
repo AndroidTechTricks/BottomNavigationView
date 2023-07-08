@@ -127,7 +127,5 @@
 
 
   # Final Output
- ![ezgif com-video-to-gif](https://github.com/AndroidTechTricks/BottomNavigationView/assets/138967229/af63918a-6c36-4501-b076-7dc3186562b9){ width=400 }
 
-  
-
+  <img src="https://github.com/AndroidTechTricks/BottomNavigationView/assets/138967229/af63918a-6c36-4501-b076-7dc3186562b9" alt="Image" width="200">
