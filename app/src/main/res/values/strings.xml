@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">BottomNavigation</string>
+    <string name="home_label">Home</string>
+    <string name="fav_label">Favourite</string>
+    <string name="add_label">Add</string>
+    <string name="search_label">Search</string>
+    <string name="profile_label">Profile</string>
+</resources>
