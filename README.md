@@ -4,24 +4,24 @@
 - create **menu** package inside **res** package and by right clicking on menu create new .xml file named **"bottom_navigation_item.xml'**. By creating this you have to paste below code for creating 4 items as menu.
 - Provide icon and title according to your requirement for each item.
   
-<?xml version="1.0" encoding="utf-8"?>
-<menu xmlns:android="http://schemas.android.com/apk/res/android">
-    <item android:id="@+id/navigation_home"
-        android:title="@string/home_label"
-        android:icon="@drawable/baseline_home_24"/>
-
-    <item android:id="@+id/navigation_fav"
-        android:title="@string/fav_label"
-        android:icon="@drawable/baseline_favorite_border_24"/>
-
-    <item android:id="@+id/navigation_search"
-        android:title="@string/search_label"
-        android:icon="@drawable/baseline_search_24"/>
-
-    <item android:id="@+id/navigation_profile"
-        android:title="@string/profile_label"
-        android:icon="@drawable/baseline_person_24"/>
-</menu>
+      <?xml version="1.0" encoding="utf-8"?>
+      <menu xmlns:android="http://schemas.android.com/apk/res/android">
+          <item android:id="@+id/navigation_home"
+              android:title="@string/home_label"
+              android:icon="@drawable/baseline_home_24"/>
+      
+          <item android:id="@+id/navigation_fav"
+              android:title="@string/fav_label"
+              android:icon="@drawable/baseline_favorite_border_24"/>
+      
+          <item android:id="@+id/navigation_search"
+              android:title="@string/search_label"
+              android:icon="@drawable/baseline_search_24"/>
+      
+          <item android:id="@+id/navigation_profile"
+              android:title="@string/profile_label"
+              android:icon="@drawable/baseline_person_24"/>
+      </menu>
 
 ## **Step : 2 -** Create Nav-Graph
 ### Nav-Graph is mandatory for creating actions on click of menu items
