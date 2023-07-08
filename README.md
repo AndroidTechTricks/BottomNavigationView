@@ -124,3 +124,10 @@
          
         setupActionBarWithNavController(navController, appBarConfiguration)
         binding.bottomnavigation.setupWithNavController(navController)
+
+
+  # Final Output
+ ![ezgif com-video-to-gif](https://github.com/AndroidTechTricks/BottomNavigationView/assets/138967229/af63918a-6c36-4501-b076-7dc3186562b9){ width=400 }
+
+  
+
