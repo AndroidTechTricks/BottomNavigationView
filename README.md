@@ -3,7 +3,7 @@
 ## **Step : 1 -** Create Menu Items
 - create **menu** package inside **res** package and by right clicking on menu create new .xml file named **"bottom_navigation_item.xml'**. By creating this you have to paste below code for creating 4 items as menu.
 - Provide icon and title according to your requirement for each item.
-- 
+  
 <?xml version="1.0" encoding="utf-8"?>
 <menu xmlns:android="http://schemas.android.com/apk/res/android">
     <item android:id="@+id/navigation_home"
